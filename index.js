@@ -1,12 +1,12 @@
 // write your code below!
-function happyHolidays() {
+function happyHolidays(string) {
   return console.log("Happy holidays!")
 }
 
-function HappyHolidaysTo() {
+function HappyHolidaysTo(string) {
   return console.log()
 }
 
-function holidayCountdown() {
+function holidayCountdown(string) {
   return `It's ${days} days until ${holiday}!`
 }
